@@ -36,5 +36,22 @@ O projeto foi inspirado no aplicativo de clima da Samsung, e possui visual dinâ
 
 ---
 
-## 📁 Estrutura do Projeto
+✨ Possibilidades Futuras
+❄️ Previsão para os próximos dias
 
+🔔 Notificações meteorológicas
+
+🗺️ Mapa com visualização dos locais
+
+🧠 Melhor uso de banco de dados (SQLite ou Firebase)
+
+💡 Aprendizados
+Esse projeto foi uma ótima oportunidade para:
+
+Praticar manipulação de APIs externas
+
+Criar interfaces responsivas com Flet
+
+Trabalhar com localização e fuso horário de forma precisa
+
+Aprimorar boas práticas de código e organização de componentes
